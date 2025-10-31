@@ -14,4 +14,4 @@ Automatización de  pruebas funcionales sobre la página web (https://www.sauced
 -Selenium
 
 ## Instalación
-1. clonar el repositorio 
+1. clonar el repositorio https://github.com/ValeBerler/Entrega_ValeB.git
